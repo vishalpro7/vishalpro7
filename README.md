@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Vishal%20Balaji&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20systems,%20not%20just%20software.&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:F72585&height=200&section=header&text=Vishal%20Balaji&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20systems,%20not%20just%20software.&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-vishalpro7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Balaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-balaji-b02464358/)
+[![GitHub](https://img.shields.io/badge/GitHub-vishalpro7-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Balaji-9D0DF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-balaji-b02464358/)
+[![Email](https://img.shields.io/badge/Email-vishalbalaji0711%40gmail.com-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalbalaji0711@gmail.com)
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Backend+%E2%80%A2+Systems+%E2%80%A2+Data+%E2%80%A2+Security;Full-Stack+Engineering;Contentment+was+never+the+goal+%E2%80%94+momentum+was." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C724B1&center=true&vCenter=true&width=600&lines=Backend+%E2%80%A2+Systems+%E2%80%A2+Data+%E2%80%A2+Security;Full-Stack+Engineering;Contentment+was+never+the+goal+%E2%80%94+momentum+was." alt="Typing SVG" />
 
 </div>
 
@@ -90,7 +91,31 @@ APIs, deployment, and clean web fundamentals wrapped around a movie-browsing exp
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Explore%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
+[![GitHub](https://img.shields.io/badge/Explore%20all%20repositories-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
+
+</div>
+
+---
+
+## 📈 Pinned Project Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalpro7&repo=VLAPIS&theme=transparent&title_color=C724B1&text_color=ffffff&icon_color=F72585&border_color=6A11CB" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalpro7&repo=RIANSPIVE&theme=transparent&title_color=C724B1&text_color=ffffff&icon_color=F72585&border_color=6A11CB" /></td>
+</tr>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalpro7&repo=Beristales-Final-Completed-Version&theme=transparent&title_color=C724B1&text_color=ffffff&icon_color=F72585&border_color=6A11CB" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalpro7&repo=project-eunomia&theme=transparent&title_color=C724B1&text_color=ffffff&icon_color=F72585&border_color=6A11CB" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalpro7&repo=Cinegraph-Small-Project&theme=transparent&title_color=C724B1&text_color=ffffff&icon_color=F72585&border_color=6A11CB" /></td>
+</tr>
+</table>
+
+<sub>Each card shows live stars, forks, and top language for that repo, pulled straight from GitHub.</sub>
 
 </div>
 
@@ -153,32 +178,32 @@ I care less about collecting frameworks and more about understanding:
 <div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6A11CB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B14D6?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-A312E0?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-BB10E8?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-D30EF0?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-E00CE8?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-EB0BC8?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-F20AA8?style=flat-square&logo=express&logoColor=white)
 
 **Data & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F70888?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-F91768?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-FA2A5A?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FB3E4C?style=flat-square&logo=docker&logoColor=white)
 
 **Data / ML / Frontend**
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-C1121F?style=flat-square&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/React-9D0DF7?style=flat-square&logo=react&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-7B0FE0?style=flat-square&logo=socketdotio&logoColor=white)
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6A11CB?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B14D6?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-C724B1?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -220,12 +245,12 @@ I'm currently spending more time on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalpro7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=ffffff" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpro7&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=ffffff" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=vishalpro7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=C724B1&icon_color=F72585&text_color=ffffff&border_color=6A11CB" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpro7&layout=compact&hide_border=true&theme=transparent&title_color=C724B1&text_color=ffffff&border_color=6A11CB" height="165">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=vishalpro7&hide_border=true&theme=transparent&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" height="165">
+<img src="https://streak-stats.demolab.com?user=vishalpro7&hide_border=true&theme=transparent&ring=F72585&fire=C724B1&currStreakLabel=F72585&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" height="165">
 
 </div>
 
@@ -247,9 +272,10 @@ That question usually leads somewhere more interesting.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-balaji-b02464358/)
+[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-9D0DF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-balaji-b02464358/)
+[![Email](https://img.shields.io/badge/Say%20Hello-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalbalaji0711@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:6A11CB&height=100&section=footer" width="100%"/>
 
 </div>
