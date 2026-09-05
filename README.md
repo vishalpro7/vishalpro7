@@ -1,265 +1,182 @@
+<!-- ══════════════════════════════════════════════════════════════
+     Vishal Balaji — GITHUB PROFILE README
+     ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:F72585&height=200&section=header&text=Vishal%20Balaji&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20systems,%20not%20just%20software.&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:C724B1,100:F72585&height=260&section=header&text=Vishal%20Balaji&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Systems.%20Backend.%20Architecture.&descAlignY=52&descSize=22&descAlign=50" width="100%"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-vishalpro7-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Balaji-9D0DF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-balaji-b02464358/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+software.;Backend+Engineering+%E2%80%A2+Data+%E2%80%A2+Security;Event-Driven+Architecture+%7C+Observability;Contentment+was+never+the+goal+%E2%80%94+momentum+was." alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Backend+%E2%80%A2+Systems+%E2%80%A2+Data+%E2%80%A2+Security;Full-Stack+Engineering;Contentment+was+never+the+goal+%E2%80%94+momentum+was." alt="Typing SVG" />
+<a href="https://github.com/vishalpro7">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6A11CB" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/vishal-balaji-b02464358/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6A11CB" alt="LinkedIn"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=vishalpro7&style=for-the-badge&color=f72585&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 <br>
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:6A11CB&height=3&width=100%)
+
+<h2 align="center">✦ THE ARCHITECTURE LENS</h2>
+
 <div align="center">
-
-### 📌 Selected Repositories
-
+<code>Curiosity ➝ Understand ➝ Build ➝ Break ➝ Find Bottleneck ➝ Redesign ➝ Build Properly</code>
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### 🔎 [VLAPIS](https://github.com/vishalpro7/VLAPIS)
-**Unnatural Behavior Analytics Platform**
+I'm a software engineering student focused on what happens beneath the surface. My work gravitates toward **real system behavior** — authentication flows, event-driven architecture, observability, and anomaly detection. I care less about collecting frameworks and more about understanding how a prototype evolves into resilient, production-ready software.
 
-Event-driven observability & anomaly detection platform that learns what *normal* looks like — then flags what isn't.
+> **The Goal:** Figuring out *why* a system is designed a certain way, *where* state lives, and *what* happens when components inevitably fail.
 
-`Express.js` `Redis Streams` `FastAPI` `PostgreSQL` `Scikit-learn` `React` `WebSockets` `Docker`
+<br>
 
-</td>
-<td width="50%" valign="top">
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:F72585&height=3&width=100%)
 
-### 🛒 [RIANSPIVE](https://github.com/vishalpro7/RIANSPIVE)
-**Enterprise Order Management Backend**
+<h2 align="center">✦ ENGINEERED SYSTEMS</h2>
 
-Modular e-commerce backend modeled around real order workflows — not a single CRUD app.
-
-`FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Pydantic` `JWT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⌨️ [Beristales](https://github.com/vishalpro7/Beristales-Final-Completed-Version)
-**Intelligent Typing Tutor**
-
-Full-stack typing tutor that evolved from a simple app into a deeper look at how software responds to user behavior.
-
-`Python` `Flask` `JavaScript` `HTML/CSS` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 [Project Eunomia](https://github.com/vishalpro7/project-eunomia)
-**Examination Management System**
-
-End-to-end system for exam workflow automation and data processing.
-
-`Workflow Automation` `Data Processing` `System Design`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 [Cinegraph](https://github.com/vishalpro7/Cinegraph-Small-Project)
-**Movie Discovery Application**
-
-APIs, deployment, and clean web fundamentals wrapped around a movie-browsing experience.
-
-`APIs` `Web Development` `Deployment`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ More Repositories
-
-[**MEAN Stack Basics**](https://github.com/vishalpro7/mean_stack_basic_files) — MEAN / Express API fundamentals
-[**FastAPI Employee API**](https://github.com/vishalpro7/employee-management-api-sample_project_done_for_understanding_of_fast-api) — FastAPI CRUD & backend fundamentals
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://github.com/vishalpro7/VLAPIS">VLAPIS</a></h3>
+      <p><b>Unnatural Behavior Analytics Platform</b></p>
+      <p>An event-driven observability and anomaly detection platform that learns what <i>normal</i> looks like — then flags what isn't.</p>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/vishalpro7/RIANSPIVE">RIANSPIVE</a></h3>
+      <p><b>Enterprise Order Management</b></p>
+      <p>A modular e-commerce backend modeled around complex, real-world order workflows rather than standard CRUD.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/vishalpro7/project-eunomia">Project Eunomia</a></h3>
+      <p><b>Examination Management System</b></p>
+      <p>An end-to-end architecture designed for exam workflow automation and heavy data processing.</p>
+      <img src="https://img.shields.io/badge/Workflow_Automation-6A11CB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/System_Design-F72585?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Data_Processing-C724B1?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/vishalpro7/Cinegraph-Small-Project">Cinegraph</a></h3>
+      <p><b>Movie Discovery Application</b></p>
+      <p>Clean web fundamentals, seamless APIs, and smooth deployment wrapped around a cinematic browsing experience.</p>
+      <img src="https://img.shields.io/badge/APIs-6A11CB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Full--Stack_Web-F72585?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Vercel%2FNeon-000000?style=flat-square&logo=vercel&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/Explore%20all%20repositories-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
-
+  <a href="https://github.com/vishalpro7?tab=repositories">
+    <img src="https://img.shields.io/badge/↳_EXPLORE_ALL_REPOSITORIES-6A11CB?style=for-the-badge&logoColor=white" alt="Explore repos"/>
+  </a>
 </div>
 
----
+<br>
 
-## `whoami`
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:6A11CB&height=3&width=100%)
 
-I'm a software engineering student who likes going deeper than simply making an application work.
-
-My projects tend to move toward **real system behavior** — authentication, business logic, APIs, databases, event flows, observability, anomaly detection, and architecture.
-
-I'm particularly interested in the point where software stops being a collection of features and starts behaving like a **system**.
-
-<div align="center">
-
-```text
-Curiosity → Understand the problem → Build the first version → Break it
-   → Find the real bottleneck → Redesign → Build it properly
-```
-
-</div>
-
----
-
-## 🧭 Engineering Interests
-
-<table align="center">
-<tr>
-<td>
-
-- Backend Engineering
-- API Design
-- Database Design
-- Anomaly Detection
-- Data Processing
-- Full-Stack Development
-
-</td>
-<td>
-
-- Distributed Systems
-- System Architecture
-- Observability
-- Event-Driven Systems
-- Software Security
-- Automation
-
-</td>
-</tr>
-</table>
-
-I care less about collecting frameworks and more about understanding:
-
-> **Why** a system is designed a certain way · **Where** state lives and how it changes · **What** happens when components fail · **How** data moves through a system · **How** abnormal behavior can be detected · **How** a prototype evolves into maintainable software
-
----
-
-## 🛠️ Tech Stack
+<h2 align="center">✦ TECHNICAL ARSENAL</h2>
 
 <div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-6A11CB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B14D6?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-A312E0?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-BB10E8?style=flat-square&logo=css3&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+
+<br><br>
 
 **Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-D30EF0?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-E00CE8?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-EB0BC8?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-F20AA8?style=flat-square&logo=express&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask&theme=dark" />
 
-**Data & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F70888?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-F91768?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-FA2A5A?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FB3E4C?style=flat-square&logo=docker&logoColor=white)
+<br><br>
 
-**Data / ML / Frontend**
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-C1121F?style=flat-square&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-9D0DF7?style=flat-square&logo=react&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-7B0FE0?style=flat-square&logo=socketdotio&logoColor=white)
+**Data & Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker&theme=dark" />
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-6A11CB?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B14D6?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-C724B1?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br><br>
+
+**Concepts & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=sklearn,react,git,githubactions&theme=dark" />
 
 </div>
-
----
-
-## 🔬 How I Approach Projects
-
-I don't want my portfolio to be a list of tutorials. The projects I keep pushing are the ones where there is something worth **figuring out**:
-
-<div align="center">
-
-```text
-Problem → Model the system → Define the data → Build the core workflow
-   → Test the ugly cases → Observe what actually happens → Improve the architecture
-```
-
-</div>
-
-The interesting part is usually not the first working version. It's what happens **after it breaks**.
-
----
-
-## 🎯 Current Direction
-
-I'm currently spending more time on:
-
-- Event-driven architectures
-- Application observability
-- Anomaly and unusual-behavior detection
-- Production-style backend architecture
-- Database and transaction design
-- API design and service boundaries
-- Robust handling of malformed and unexpected data
-- Understanding system behavior rather than only system output
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishalpro7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=C724B1&icon_color=F72585&text_color=ffffff&border_color=6A11CB" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpro7&layout=compact&hide_border=true&theme=transparent&title_color=C724B1&text_color=ffffff&border_color=6A11CB" height="165">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=vishalpro7&hide_border=true&theme=transparent&ring=F72585&fire=C724B1&currStreakLabel=F72585" height="165">
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:F72585&height=3&width=100%)
 
-</div>
-
----
-
-## 📈 GitHub Activity
+<h2 align="center">✦ CURRENT TRAJECTORY</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalpro7&theme=radical" width="95%" />
+| Focus Area | What It Means |
+|:---:|:---|
+| 🔀 **Event-Driven Architectures** | Moving beyond synchronous bottlenecks |
+| 🔭 **Application Observability** | Knowing exactly when, where, and why things break |
+| 🗄️ **Database & Transaction Design** | Ensuring data integrity under pressure |
+| 🧩 **Production-Style Service Boundaries** | Keeping domains clean, isolated, and scalable |
 
 </div>
-
----
-
-## 💭 Beyond the Code
-
-I enjoy taking an idea that initially looks simple and asking:
-
-> **What would this look like if it had to survive real usage?**
-
-That question usually leads somewhere more interesting.
-
----
-
-<div align="center">
-
-### `build → break → understand → rebuild`
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpro7)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-9D0DF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-balaji-b02464358/)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:6A11CB&height=3&width=100%)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:6A11CB&height=100&section=footer" width="100%"/>
+<h2 align="center">✦ METRICS & MOMENTUM</h2>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishalpro7&show_icons=true&hide_border=true&rank_icon=github&theme=radical&title_color=F72585&icon_color=C724B1&text_color=e0e0e0&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpro7&layout=compact&hide_border=true&theme=radical&title_color=F72585&text_color=e0e0e0&bg_color=0d1117" height="165"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpro7&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=C724B1&fire=F72585&currStreakLabel=F72585" height="165"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishalpro7&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalpro7&theme=redical&hide_border=true&bg_color=0D1117&color=F72585&line=C724B1&point=ffffff" width="90%"/>
+
+</div>
+
+<br>
+
+<!-- CONTRIBUTION SNAKE — enable via the GitHub Action below to animate automatically -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/vishalpro7/vishalpro7/output/github-contribution-grid-snake-dark.svg" width="90%" alt="snake animation"/>
+</div>
+
+<br>
+
+<div align="center">
+  <p><i>build ➝ break ➝ understand ➝ rebuild</i></p>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:C724B1,100:6A11CB&height=150&section=footer" width="100%"/>
 </div>
