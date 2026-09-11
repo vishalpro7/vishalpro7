@@ -28,7 +28,7 @@
 ### 🔎 [VLAPIS](https://github.com/vishalpro7/VLAPIS)
 **Unnatural Behavior Analytics Platform**
 
-Event-driven observability & anomaly detection platform that learns what *normal* looks like — then flags what isn't.
+Event-driven observability & anomaly detection platform that learns what *normal* looks like - then flags what isn't.
 
 `Express.js` `Redis Streams` `FastAPI` `PostgreSQL` `Scikit-learn` `React` `WebSockets` `Docker`
 
