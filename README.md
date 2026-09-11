@@ -38,7 +38,7 @@ Event-driven observability & anomaly detection platform that learns what *normal
 ### 🛒 [RIANSPIVE](https://github.com/vishalpro7/RIANSPIVE)
 **Enterprise Order Management Backend**
 
-Modular e-commerce backend modeled around real order workflows — not a single CRUD app.
+Inspired by backend work during my internship at Payoda - I rebuilt the system solo, end-to-end, with a clean router → service → model architecture.
 
 `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Pydantic` `JWT`
 
